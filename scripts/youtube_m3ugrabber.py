@@ -46,7 +46,6 @@ def grab(url):
             tuner += 5
     print(f"{link[start : end]}")
 
-print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
 print(banner)
 #s = requests.Session()
 with open('../youtube_channel_info.txt') as f:
@@ -63,7 +62,8 @@ with open('../youtube_channel_info.txt') as f:
             print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
         else:
             grab(line)
-            
+print(f'\n#EXTINF:-1 group-title="Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo-b6f7b5.jpg/800px-Logo-b6f7b5.jpg" tvg-id="", Radio Maximum\nhttps://hls-01-maximum.hostingradio.ru/maximum/112/playlist.m3u8')
+print(f'\n#EXTINF:-1 group-title="Rock" tvg-logo="https://radioultra.ru/storage/87229/conversions/cover-social.jpg" tvg-id="", Radio Ultra\nhttps://nashe1.hostingradio.ru/ultra-128.mp3')            
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
     os.system('rm watch*')
