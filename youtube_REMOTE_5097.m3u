@@ -1,0 +1,35 @@
+
+#########################################################################
+#      ____            _           _   __  __                           #
+#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
+#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
+#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
+#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
+#                   |__/                                                #
+#                                  >> https://github.com/benmoose39     #
+#########################################################################
+
+
+#EXTINF:-1 group-title="Beats To Relax/Study To" tvg-logo="https://i.ytimg.com/vi/jfKfPfyJRdk/maxresdefault.jpg" tvg-id="", Lo-Fi Hip-Hop radio
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710808085/ei/tYf4ZZCHIO2hmLAPoPq_0AM/ip/94.19.92.16/id/jfKfPfyJRdk.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-h3FlMC8_AXPwkTRxhNe7p0sLqZFMbg6lUCax1yTrI/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgViFWUu-Ju0ngUrJQAYmzPVNGqGEsPYnjNyaRaKqsti4CIE2JS_DyXHdi0z-iRr9cfUzd_z6GDegrs4q0B7vy6sWq/file/index.m3u8
+
+#EXTINF:-1 group-title="Phonk Music/Chill" tvg-logo="https://i.ytimg.com/vi/8v_kKMaq5po/sddefault.jpg" tvg-id="", Phonk Radio
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710808086/ei/tof4ZbDcFJaBp-oPqeuLeA/ip/94.19.92.16/id/8v_kKMaq5po.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyWCzcUsCVjRQSws6LAevAFV-lRh3vkdLk8tUGWRjpo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgXDT7iuO5M1eSG1kCj3M528X5me2HYqcrdIQ6SBBhxDoCIQCvhvKx-4QNOJlyuAW5Tsh8eDiT0aR29fxTMzesWe7tww%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Beats To Chill/Game To" tvg-logo="https://i.ytimg.com/vi/MVPTGNGiI-4/maxresdefault.jpg" tvg-id="", Synthwave Radio
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710808087/ei/t4f4ZenDA_S_p-oP7syK8AY/ip/94.19.92.16/id/4xDzrJKXOOY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7l7L0GrAK1GivZH1SeUwW5V3QYe5Hm1t4bMP3B-fjA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAO1JF-QwAErZ1HM5sONDK12NPlMXltlEp6gZ28AzTZctAiBQYtcr3ISja_JbirtZ3fzWXT8fcEpYCKiaAzjL3d1VrQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Edm Gaming Trap House Dubstep" tvg-logo="https://pic.rutube.ru/video/8e/ca/8eca2a1981b7cbada1cd99de80ffdbef.jpg" tvg-id="", Copyright Free Music Radio
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710808088/ei/uIf4ZeiDAaHy0wWOiqLgBg/ip/94.19.92.16/id/7tNtU5XFwrU.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129849/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_vLFSXx0K5NgSotkQvChIHqU8G4z2io-cgDB41LguE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAM0sWDllXYecTNJKtTMxielqryNR85lw9S8_EAOQPBe0AiAdXar3Uap3_0ptiIG_gOPAQG3kkbM2sTuMRWkvbTwmnw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Beats To Sleep/Relax/Study To" tvg-logo="https://i.ytimg.com/vi/rBCmiGZe0Xs/maxresdefault.jpg" tvg-id="", Tokyo Night Drive Radio
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710808088/ei/uIf4ZYfZLNWJvdIPrYSPgAU/ip/94.19.92.16/id/Lcdi9O2XB4E.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066120/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-xttafDNrbMv88eQrETrneIbUFWz9ts_mJQq3LxitM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/beids/24350320/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgWtdz4CkxMmG1Jr1UfnxPk2jC4X7W6Cp1Qpgmxr9jwjUCICg0lhSjgZl2ne6MHwnm7bygAz-UeI2Xq9eD8zwCigVh/file/index.m3u8
+
+#EXTINF:-1 group-title="Jumpstyle/Frenchcore/Happy/Hardcore/Uptempo/Rave Music" tvg-logo="https://i.ytimg.com/vi/EY9f7ltvzD8/maxresdefault.jpg" tvg-id="", Hardstyle & Hardcore Music Radio
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710808089/ei/uYf4ZZ7MGoP5xN8P5OyP6A0/ip/94.19.92.16/id/uYhrWZwCi6M.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118563/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7DgzK7tGDE0TS_9Ux-ky6OezQkDjlfbSnurFfKYo60/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAI2Q-QwSgnzQeiwz9LzJBnfmU0LieFCL7YRdijSp6AfTAiBl1a65Yx11vdtwBwx1QLs7ZtzE6o7qimiCpXvu2kEsNg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo-b6f7b5.jpg/800px-Logo-b6f7b5.jpg" tvg-id="", Radio Maximum
+https://hls-01-maximum.hostingradio.ru/maximum/112/playlist.m3u8
+
+#EXTINF:-1 group-title="Rock" tvg-logo="https://radioultra.ru/storage/87229/conversions/cover-social.jpg" tvg-id="", Radio Ultra
+https://nashe1.hostingradio.ru/ultra-128.mp3
