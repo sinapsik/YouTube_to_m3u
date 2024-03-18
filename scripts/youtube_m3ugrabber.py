@@ -63,7 +63,8 @@ with open('../youtube_channel_info.txt') as f:
         else:
             grab(line)
 print(f'\n#EXTINF:-1 group-title="Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo-b6f7b5.jpg/800px-Logo-b6f7b5.jpg" tvg-id="", Radio Maximum\nhttps://hls-01-maximum.hostingradio.ru/maximum/112/playlist.m3u8')
-print(f'\n#EXTINF:-1 group-title="Rock" tvg-logo="https://radioultra.ru/storage/87229/conversions/cover-social.jpg" tvg-id="", Radio Ultra\nhttps://nashe1.hostingradio.ru/ultra-128.mp3')            
+print(f'\n#EXTINF:-1 group-title="Rock" tvg-logo="https://radioultra.ru/storage/87229/conversions/cover-social.jpg" tvg-id="", Radio Ultra\nhttps://nashe1.hostingradio.ru/ultra-128.mp3')
+print(f'\n#EXTINF:-1 group-title="Sovietwave" tvg-logo="https://cdnb.artstation.com/p/assets/images/images/031/727/841/large/danylo-hrechyshkin-untitled-4.jpg" tvg-id="", Radio Sovietwave\nhttps://sovietwave.su/sovietwave.m3u')
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
     os.system('rm watch*')
